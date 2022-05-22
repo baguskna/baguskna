@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/baguskna?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/baguskna">
-    <img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/baguskna?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
