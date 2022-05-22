@@ -3,6 +3,15 @@
 - 🍇 Currently working for 🇮🇳 based startup
 - 🍀 I am open for new opportunities
 
+<p align="center">
+  <a href="https://github.com/baguskna?tab=followers">
+    <img src="https://img.shields.io/github/followers/baguskna?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/baguskna">
+    <img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
 ### Github Stats
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=baguskna&show_icons=true" alt="baguskna" />
