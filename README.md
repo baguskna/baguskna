@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baguskna
 - 👀 I’m a Front End Engineer
-- 🍇 Currently working for startup from 🇮🇳
+- 🍇 Currently working for 🇮🇳 based startup
 - 🍀 I am open for new opportunities
 
 ### Github Stats
