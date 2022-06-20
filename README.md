@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @baguskna
 - 👀 I’m a Front End Engineer
-- 🍇 Currently working for 🇮🇳 based startup
 
 <p align="center">
   <a href="https://github.com/baguskna?tab=followers">
