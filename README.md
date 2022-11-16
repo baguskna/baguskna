@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baguskna
-- 👀 I’m a Front End Engineer
+- 👀 I’m a Software Engineer based in Indonesia
 
 <p align="center">
   <a href="https://github.com/baguskna?tab=followers">
